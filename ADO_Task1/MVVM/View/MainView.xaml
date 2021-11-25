@@ -13,8 +13,8 @@
         WindowStartupLocation="CenterScreen">
     <Window.Background>
         <LinearGradientBrush>
-            <GradientStop Color="red" Offset="0.3"/>
-            <GradientStop Color="Gold" Offset="0.5"/>
+            <GradientStop Color="DeepSkyBlue" Offset="0.3"/>
+            <GradientStop Color="SpringGreen" Offset="0.5"/>
         </LinearGradientBrush>
     </Window.Background>
     <Window.Resources>
